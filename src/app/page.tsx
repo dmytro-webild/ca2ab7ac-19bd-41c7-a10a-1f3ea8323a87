@@ -54,7 +54,7 @@ export default function LandingPage() {
           text: "Free Demo",          href: "#"},
       ]}
       carouselItems={[
-        { id: "1", imageSrc: "http://img.b2bpic.net/free-photo/office-workers-using-finance-graphs_23-2150408711.jpg", imageAlt: "diverse students laptop training" },
+        { id: "1", imageSrc: "http://img.b2bpic.net/free-photo/office-workers-using-finance-graphs_23-2150408711.jpg?_wi=1", imageAlt: "diverse students laptop training" },
         { id: "2", imageSrc: "http://img.b2bpic.net/free-photo/focused-adult-male-student-doing-research-public-library_74855-1876.jpg", imageAlt: "diverse students laptop training" },
         { id: "3", imageSrc: "http://img.b2bpic.net/free-photo/colleagues-doing-team-work-project_23-2149361567.jpg", imageAlt: "diverse students laptop training" },
         { id: "4", imageSrc: "http://img.b2bpic.net/free-photo/manager-instructing-her-creative-team_74855-10255.jpg", imageAlt: "diverse students laptop training" },
@@ -99,7 +99,7 @@ export default function LandingPage() {
           ],
           reverse: true,
           media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/office-workers-using-finance-graphs_23-2150408711.jpg",            imageAlt: "diverse students laptop training"},
+            imageSrc: "http://img.b2bpic.net/free-photo/office-workers-using-finance-graphs_23-2150408711.jpg?_wi=2",            imageAlt: "diverse students laptop training"},
         },
         {
           title: "Real Projects",          description: "Gain hands-on experience on live industry projects.",          items: [
