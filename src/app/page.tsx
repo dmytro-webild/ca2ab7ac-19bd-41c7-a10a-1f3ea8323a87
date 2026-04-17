@@ -72,7 +72,7 @@ export default function LandingPage() {
       carouselItems={[
         {
           id: "1",
-          imageSrc: "http://img.b2bpic.net/free-photo/office-workers-using-finance-graphs_23-2150408711.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/office-workers-using-finance-graphs_23-2150408711.jpg?_wi=1",
           imageAlt: "diverse students laptop training",
         },
         {
@@ -172,7 +172,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/side-view-students-learning-together_23-2149647117.jpg",
             imageAlt: "diverse students laptop training",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/office-workers-using-finance-graphs_23-2150408711.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/office-workers-using-finance-graphs_23-2150408711.jpg?_wi=2",
           imageAlt: "diverse students laptop training",
         },
         {
